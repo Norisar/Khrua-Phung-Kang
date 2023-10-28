@@ -1,0 +1,6 @@
+{
+    "defaultStartupPage": [
+      "banner_index.php",
+      "login.php"
+    ]
+  }
